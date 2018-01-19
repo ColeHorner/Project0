@@ -1,0 +1,18 @@
+\hypertarget{count_8h}{}\section{count.\+h File Reference}
+\label{count_8h}\index{count.\+h@{count.\+h}}
+This graph shows which files directly or indirectly include this file\+:
+% FIG 0
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{count_8h_a5fe0506c9617db851d81fe9c10f86a52}{count} (float, int\mbox{[}$\,$\mbox{]})
+\end{DoxyCompactItemize}
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{count_8h_a5fe0506c9617db851d81fe9c10f86a52}\label{count_8h_a5fe0506c9617db851d81fe9c10f86a52}} 
+\index{count.\+h@{count.\+h}!count@{count}}
+\index{count@{count}!count.\+h@{count.\+h}}
+\subsubsection{\texorpdfstring{count()}{count()}}
+{\footnotesize\ttfamily void count (\begin{DoxyParamCaption}\item[{float}]{,  }\item[{int}]{\mbox{[}$\,$\mbox{]} }\end{DoxyParamCaption})}
+

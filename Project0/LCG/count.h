@@ -1,0 +1,1 @@
+void count(float, int[]);

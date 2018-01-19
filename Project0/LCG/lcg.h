@@ -1,0 +1,1 @@
+int lcg(void);
